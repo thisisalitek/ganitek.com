@@ -1,3 +1,6 @@
 # ganitek.com web sitesi
 
-merhaba dunya
+merhaba dunya2
+
+merhaba ganiteknoloji
+
